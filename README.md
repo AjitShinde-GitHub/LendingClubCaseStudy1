@@ -47,7 +47,7 @@ Ajit Shinde & Safalya Mohanta
 
 
 ## Contact
-Created by [@AjitShinde-Github] - feel free to contact me!
+Created by [@AjitShinde-Github] & [@Safalyam]- feel free to contact me!
 
 
 <!-- Optional -->
